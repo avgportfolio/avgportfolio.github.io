@@ -1,4 +1,5 @@
 # Portfolio 
 
 
-- Template courtesy Vidhya V. License preserved as obtained.
+- Template courtesy: *Vidhya V.* 
+- License preserved as obtained.
