@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family: 'Merriweather';
 }
 
 .btn-xl {
@@ -263,6 +263,7 @@ h6 {
   text-transform: uppercase;
 }
 
+
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
   font-size: 1.2rem;
@@ -299,6 +300,10 @@ h6 {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
+}
+
+h1,h3 {
+  font-family: "Merriweather"!important; 
 }
 
 footer.footer {
